@@ -27,10 +27,10 @@ import java.util.Random;
 
 public class DiscordConnectionAcrom extends JavaPlugin {
 
-    private final String webhookUrl = "https://discord.com/api/webhooks/1280158583635316756/dc15v_ZyOs5QunuaJYgmAOt6ByznGYsl8RmfHXaOOZP0wUp8GPn9gJDjLvyPlH8PaogO";
-    private final String dbUrl = "jdbc:mysql://172.18.0.1:25567/Plugin?useSSL=false&serverTimezone=UTC";
-    private final String dbUser = "TopolinoMangiaPisello";
-    private final String dbPassword = "Pisellone12Macumba";
+    private final String webhookUrl = "";
+    private final String dbUrl = "";
+    private final String dbUser = "";
+    private final String dbPassword = "";
 
     @Override
     public void onEnable() {
